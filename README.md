@@ -6,7 +6,8 @@ Programmatically upload JSON dumps to discogs lists
 1. Run `npm i` after cloning
 2. Create an `.env` file with variables for `user=foo` and `password=bar`
 3. Run `node discogs-list-importer.js --file path/to/file.json --list "some existing list"`
-4. The `--file` should be JSON in the same format as a downloaded list from the API as shown below
+  - The `--file` must be JSON in the same format as a downloaded list from the API as shown below
+  - The `--list` must already exist
 
 ### Download a list using the [Discogs API](https://www.discogs.com/developers#page:user-lists)
 
