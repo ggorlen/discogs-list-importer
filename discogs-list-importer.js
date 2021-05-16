@@ -1,28 +1,3 @@
-/* 
-
-# discogs-list-importer
-
-## downloading a list:
-
-`/users/{username}/lists`
-
-```
-curl https://api.discogs.com/users/_morning/lists | jq .
-curl https://api.discogs.com/lists/190092 | jq .
-```
-
-## uploading a list:
-
-- set `.env` vars for user and password
-- `node discogs-list-ul.js --file path/to/file.json --list "some list"`
-- the file should be JSON in the same format as a downloaded list
-```
-
-## TODO
-- make list programmatically if it doesn't exist instead of printing an error
-
-*/
-
 require("dotenv").config();
 const {readFile} = require("fs").promises;
 const puppeteer = require("puppeteer");
