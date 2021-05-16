@@ -7,7 +7,7 @@ Programmatically upload JSON dumps to discogs lists
 - `node discogs-list-importer.js --file path/to/file.json --list "some list"`
 - The file should be JSON in the same format as a downloaded list from the API as shown below
 
-### Download a list using the API
+### Download a list using the Discogs API
 
 [Format: `/users/{username}/lists`](https://www.discogs.com/developers#page:user-lists,header:user-lists-list)
 
