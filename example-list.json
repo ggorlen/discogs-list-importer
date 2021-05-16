@@ -1,0 +1,65 @@
+{
+  "id": 190092,
+  "user": {
+    "id": 146945,
+    "avatar_url": "https://img.discogs.com/2JxrfhSgWfxxwN5Kuo6UbDUIpxc=/500x500/filters:strip_icc():format(jpeg):quality(40)/discogs-avatars/U-146945-1412704387.jpeg.jpg",
+    "username": "_morning",
+    "resource_url": "https://api.discogs.com/users/_morning"
+  },
+  "name": "desert island",
+  "description": "",
+  "public": true,
+  "date_added": "2014-01-05T12:05:39-08:00",
+  "date_changed": "2021-05-15T12:38:03-07:00",
+  "uri": "https://www.discogs.com/lists/desert-island/190092",
+  "resource_url": "https://api.discogs.com/lists/190092",
+  "image_url": "",
+  "items": [
+    {
+      "type": "master",
+      "id": 481,
+      "comment": "",
+      "uri": "https://www.discogs.com/Aphex-Twin-Selected-Ambient-Works-Volume-II/master/481",
+      "resource_url": "https://api.discogs.com/masters/481",
+      "image_url": "",
+      "display_title": "Aphex Twin - Selected Ambient Works Volume II",
+      "stats": {
+        "community": {
+          "in_wantlist": 965,
+          "in_collection": 4112
+        }
+      }
+    },
+    {
+      "type": "master",
+      "id": 16783,
+      "comment": "",
+      "uri": "https://www.discogs.com/Soft-Machine-Third/master/16783",
+      "resource_url": "https://api.discogs.com/masters/16783",
+      "image_url": "",
+      "display_title": "Soft Machine - Third",
+      "stats": {
+        "community": {
+          "in_wantlist": 916,
+          "in_collection": 1004
+        }
+      }
+    },
+    {
+      "type": "master",
+      "id": 901,
+      "comment": "",
+      "uri": "https://www.discogs.com/Robert-Fripp-Let-The-Power-Fall/master/901",
+      "resource_url": "https://api.discogs.com/masters/901",
+      "image_url": "",
+      "display_title": "Robert Fripp - Let The Power Fall",
+      "stats": {
+        "community": {
+          "in_wantlist": 209,
+          "in_collection": 581
+        }
+      }
+    }
+  ]
+}
+
