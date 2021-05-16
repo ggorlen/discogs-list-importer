@@ -1,0 +1,16 @@
+{
+  "name": "discogs-list-importer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "discogs-list-importer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "discogs-list-importer.js"
+  },
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "puppeteer": "^9.0.0"
+  },
+  "author": "",
+  "license": "CC0"
+}
